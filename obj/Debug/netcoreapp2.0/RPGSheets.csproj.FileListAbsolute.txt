@@ -1,0 +1,11 @@
+/proj/RPGSheets/obj/Debug/netcoreapp2.0/RPGSheets.csproj.CoreCompileInputs.cache
+/proj/RPGSheets/obj/Debug/netcoreapp2.0/RPGSheets.AssemblyInfoInputs.cache
+/proj/RPGSheets/obj/Debug/netcoreapp2.0/RPGSheets.AssemblyInfo.cs
+/proj/RPGSheets/bin/Debug/netcoreapp2.0/RPGSheets.deps.json
+/proj/RPGSheets/bin/Debug/netcoreapp2.0/RPGSheets.runtimeconfig.json
+/proj/RPGSheets/bin/Debug/netcoreapp2.0/RPGSheets.runtimeconfig.dev.json
+/proj/RPGSheets/bin/Debug/netcoreapp2.0/RPGSheets.dll
+/proj/RPGSheets/bin/Debug/netcoreapp2.0/RPGSheets.pdb
+/proj/RPGSheets/obj/Debug/netcoreapp2.0/RPGSheets.dll
+/proj/RPGSheets/obj/Debug/netcoreapp2.0/RPGSheets.pdb
+/proj/RPGSheets/obj/Debug/netcoreapp2.0/RPGSheets.csprojAssemblyReference.cache
